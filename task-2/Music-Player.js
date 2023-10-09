@@ -239,6 +239,7 @@ function loadTrack(track_index) {
               
              
             }}
+     //function to rotate the poster of music
             function rotatebg(){
             if(isPlaying==true)
             { 
